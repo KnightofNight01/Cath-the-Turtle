@@ -61,4 +61,6 @@ while True:
     # Turtle'ı temizle (kaybolmasını sağla)
     t.clear()
 
+
+
 screen.mainloop()
